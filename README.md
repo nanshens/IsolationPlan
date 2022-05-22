@@ -14,3 +14,30 @@
 
 ### DAY 1
 [DAY 1](./day/day1.md)   
+
+### DAY 2
+[DAY 2](./day/day2.md)   
+
+### DAY 3
+[DAY 3](./day/day3.md)   
+
+### DAY 4
+[DAY 4](./day/day4.md)   
+
+### DAY 5
+[DAY 5](./day/day5.md)   
+
+### DAY 6
+[DAY 6](./day/day6.md)   
+
+### DAY 7
+[DAY 7](./day/day7.md)   
+
+### DAY 8
+[DAY 8](./day/day8.md)   
+
+### DAY 9
+[DAY 9](./day/day9.md)   
+
+### DAY 10
+[DAY 10](./day/day10.md)   

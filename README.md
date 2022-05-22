@@ -6,4 +6,4 @@
 
 ## 准备
 如果长时间隔离 最好准备一些必用品以下是清单列表
-[准备清单](https://raw.github.com/nanshens/IsolationPlan/main/buy/buy.md)
+[准备清单](./buy/buy.md)
